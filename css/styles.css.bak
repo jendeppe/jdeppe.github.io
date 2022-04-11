@@ -70,6 +70,7 @@ nav ul li a:hover {
     color: black;
     border-left: 2px solid;
     border-right: 2px solid;    
+    background-image: src="images/K9Carelogo.png"; 
 }
 
 #main p {
